@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @iboblan
+- 👀 I’m interested in pursuing a Master's of Information and Data Science at UC Berkeley!
