@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @iboblan
 - 👀 I’m interested in pursuing a Master's of Information and Data Science at UC Berkeley!
+- This Git is meant as a code repository, to be able to use examples from my work in projects at home
+- Also a place to show off projects to various interested parties!
